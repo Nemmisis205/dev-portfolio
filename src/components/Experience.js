@@ -35,9 +35,10 @@ class Experience extends Component {
             iconStyle={{
               background: "#AE944F",
               color: "#fff",
-              textAlign: "center",
-            }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
+                textAlign: "center",
+                fontSize: "40px"
+                }}
+                icon={<i className="devicon-csharp-plain"></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
