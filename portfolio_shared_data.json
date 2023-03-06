@@ -1,0 +1,48 @@
+{
+    "basic_info": {
+      "name": "Kohle Christensen",
+      "titles": [ "Junior Developer", "Board Game Fiend", "Cool Guy" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Nemmisis205",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+          {
+            "name": "C#",
+            "class": "devicon-csharp-plain",
+            "level": "65"
+          },
+        {
+          "name": "Sql Server",
+          "class": "devicon-microsoftsqlserver-plain",
+          "level": "60"
+        },
+        {
+          "name": ".Net",
+          "class": "devicon-dot-net-plain",
+          "level": "50"
+        },
+        {
+          "name": "Visual Studio",
+          "class": "devicon-visualstudio-plain",
+          "level": "50"
+        },
+        {
+          "name": "SQLite",
+          "class": "devicon-sqlite-plain",
+          "level":  "50"
+        }
+      ]
+    }
+  }

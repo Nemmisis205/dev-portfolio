@@ -1,0 +1,85 @@
+{
+    "basic_info": {
+      "description_header": "Hello!",
+      "description": "I'm Kohle Christensen. I've recently received my Software Technology certificate from Ogden-Weber Technical College and am now looking to land a job to continue developing these skills. I'm particularly interested in learning new programming languages, specifically Python, as well as deepening my knowledge in C#. If you wish to contact me, please email me at Nemmisisk205@gmail.com.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Goggle Incentive Calculator",
+        "startDate": "2023",
+        "description": "Capstone project, but I also made it for a supervisor at my old job. It's designed to take production numbers from operators at a ski goggle producer and determine if they did well enough to recieve a bonus incentive. It stores these numbers to a database as well, allowing additional accountibility.",
+        "images": [
+          "images/portfolio/GIC/p1.jpg",
+          "images/portfolio/GIC/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-sqlite-plain",
+            "name": "SQLite"
+          }
+        ]
+      },
+      {
+        "title": "Corey's Knick-Knacks'",
+        "startDate": "2022",
+        "description": "Guided school project. It's an inventory management system and store front. The overall steps were guided by the assignments, but final implementation was left up to me.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          },
+          {
+            "class": "devicon-microsoftsqlserver-plain",
+            "name": "SQL Server"
+          },
+          {
+            "class": "devicon-dotnet-plain",
+            "name": "ASP.NET"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Your Company Here!",
+        "title": "Junior Software Developer",
+        "years": "Near future - Farther Future",
+        "mainTech": [
+          "C#"
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Ogden-Weber Technical College",
+        "title": "Student",
+        "years": "05.2022 - 03.2023",
+        "mainTech": [
+          "C#"
+        ],
+        "technologies": [
+          "ASP.NET",
+          "WPF",
+          "Dapper",
+          "SQL Server",
+          "XAML"
+        ]
+      }
+    ]
+  }
