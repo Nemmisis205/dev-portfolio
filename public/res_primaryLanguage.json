@@ -15,8 +15,8 @@
         "startDate": "2023",
         "description": "Capstone project, but I also made it for a supervisor at my old job. It's designed to take production numbers from operators at a ski goggle producer and determine if they did well enough to recieve a bonus incentive. It stores these numbers to a database as well, allowing additional accountibility.",
         "images": [
-          "images/portfolio/GIC/p1.jpg",
-          "images/portfolio/GIC/p2.jpg"
+          "images/portfolio/GIC/p1.JPG",
+          "images/portfolio/GIC/p2.JPG"
         ],
         "url": "https://github.com/Nemmisis205/GoggleIncentive",
         "technologies": [
