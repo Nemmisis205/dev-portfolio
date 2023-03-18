@@ -4,13 +4,13 @@
     "\\public",
     "\\public\\images",
     "\\public\\images\\portfolio",
+    "\\public\\images\\portfolio\\CKK",
     "\\public\\images\\portfolio\\GIC",
-    "\\public\\images\\portfolio\\photography",
     "\\src",
     "\\src\\components",
     "\\src\\scss",
     "\\src\\scss\\themes"
   ],
-  "SelectedNode": "\\public\\images\\portfolio\\GIC\\p1.JPG",
+  "SelectedNode": "\\src\\App.scss",
   "PreviewInSolutionExplorer": false
 }
